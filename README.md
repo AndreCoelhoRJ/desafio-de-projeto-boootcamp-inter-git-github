@@ -6,4 +6,4 @@ uma breve apresentação sobre mim
 
 ## Minhas rede  sociais
 [Github](https://github.com/AndreCoelhoRJ)
-[linkedin] (https://www.linkedin.com/in/andre-coelho-20886b42/)
+[linkedin](https://www.linkedin.com/in/andre-coelho-20886b42/)
