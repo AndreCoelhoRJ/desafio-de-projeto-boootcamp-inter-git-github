@@ -2,4 +2,8 @@
 Repositório criado para o Desafio de Projeto Git/Github da Dio.
 
 ## O que vocÊ verá neste repositório?
-uma breve descrição minha.
+uma breve apresentação sobre mim
+
+## Minhas rede soci
+[Github](https://github.com/AndreCoelhoRJ)
+[linkedin] (https://www.linkedin.com/in/andre-coelho-20886b42/)
